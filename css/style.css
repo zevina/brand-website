@@ -213,6 +213,7 @@ a {
 }
 
 .burger-menu {
+  display: none;
   position: absolute;
   flex-direction: column;
   top: 75px;
