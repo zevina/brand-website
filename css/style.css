@@ -255,7 +255,7 @@ a {
 }
 
 .subscribe-bg {
-  background-image: linear-gradient(to top, rgba(244, 244, 244, 0.7), rgba(244, 244, 244, 0.7)), url("img/back_subscribe.png");
+  background-image: linear-gradient(to top, rgba(244, 244, 244, 0.7), rgba(244, 244, 244, 0.7)), url("../img/back_subscribe.png");
   background-repeat: no-repeat;
   background-position: 25% 75%;
   background-size: cover;
